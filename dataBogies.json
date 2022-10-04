@@ -1,0 +1,82 @@
+[
+    {
+      "ModelBogie": "18-100",
+      "Factory": "АО «НПК «Уралвагонзавод»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9841",
+      "Factory": "АО «ТВСЗ»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9770",
+      "Factory": "ООО «КАВАЗ»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-2128",
+      "Factory": "АО «Алтайвагон»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-7055",
+      "Factory": "ПАО «КВСЗ»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9801",
+      "Factory": "АО «Pyзxиммaш»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9875",
+      "Factory": "АО «Рославльский ВРЗ»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9876",
+      "Factory": "АО «Барнаульский вагоноремонтный завод»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-1750",
+      "Factory": "ООО «ГCKБB им. Г.В. Бубнова»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9918",
+      "Factory": "АО «ЗИKCTO»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9922",
+      "Factory": "СЗАО «МВЗ»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9845",
+      "Factory": "Kaзaxcтaн",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9896",
+      "Factory": "АО «ПО «Бежицкая сталь»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-6941",
+      "Factory": "АО «НМЗ»",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "18-9597",
+      "Factory": "Узбeкиcтaн",
+      "AxialLoad": "23,5 т/ось"
+    },
+    {
+      "ModelBogie": "Ремонтная",
+      "Factory": "-",
+      "AxialLoad": "23,5 т/ось"
+    }
+  ]
